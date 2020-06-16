@@ -1,5 +1,4 @@
-
-**#This is the Basic Spring Boot Project with for Customer and Address entities/repositories/controllers/services.
+**This is the Basic Spring Boot Project with for Customer and Address entities/repositories/controllers/services.**
 >Basic steps to be noted before you import the project and run it:
 1) Eclipse IDE /STS tool kit (https://spring.io/tools)
 2) Maven Project 
